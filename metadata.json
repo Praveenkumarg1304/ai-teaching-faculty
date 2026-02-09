@@ -1,0 +1,7 @@
+{
+  "name": "OmniTutor: AI Teaching Faculty",
+  "description": "An autonomous AI tutoring system that employs a team-of-teachers methodology to diagnose gaps, plan lessons, and refine explanations before delivery.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
